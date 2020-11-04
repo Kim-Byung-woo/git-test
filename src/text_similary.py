@@ -25,6 +25,7 @@ import seaborn as sns
 
 # 첫번쨰 커밋
 # 두번째 커밋
+# third commit
 
 
 x_data = np.array(['영희가 사랑하는 강아지 백구를 산책시키고 있다.',
