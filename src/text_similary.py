@@ -23,6 +23,9 @@ plt.rc('font', family='Malgun Gothic')
 #plt.rc('font', family='AppleGothic')
 import seaborn as sns
 
+# 첫번쨰 커밋
+
+
 x_data = np.array(['영희가 사랑하는 강아지 백구를 산책시키고 있다.',
         '철수가 사랑하는 소 누렁이를 운동시키고 있다.',
         '영희와 철수는 소와 강아지를 산책 및 운동시키고 있다.'])
