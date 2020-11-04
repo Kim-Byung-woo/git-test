@@ -18,9 +18,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
 #Window 의 한글 폰트 설정
-#plt.rc('font', family='Malgun Gothic')
+plt.rc('font', family='Malgun Gothic')
 #Mac 의 한글 폰트 설정
-plt.rc('font', family='AppleGothic')
+#plt.rc('font', family='AppleGothic')
 import seaborn as sns
 
 x_data = np.array(['영희가 사랑하는 강아지 백구를 산책시키고 있다.',
